@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Toko Sayur 22
+# Mbumdes
 =======
 # Mbumdes
 >>>>>>> 880553b3f03548b05c40984a652e6809e4780127
@@ -23,11 +23,7 @@ dan lain-lain.
 User demo:
 - Admin
 <<<<<<< HEAD
-username: mulyojr
-password: qwerty
-- Customer:
-username: agungtr
-password: qwerty
+
 =======
 username: fajar
 password: 12345
