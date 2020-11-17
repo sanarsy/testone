@@ -1,0 +1,14 @@
+##Hak akses
+
+Admin
+Customer
+User demo:
+
+Admin username: fajar password: 12345
+
+
+#f15e00
+#ff3405
+
+
+Customer: username: agungtr password: qwerty
